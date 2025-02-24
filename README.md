@@ -1,7 +1,7 @@
 
 ## Manuscript: Frailty progression following severe infections: a matched cohort study in US Veterans aged 65+ years
 
-This repository hosts the data analysis process, activities for generating publication-ready results/outputs for this study.
+This repository hosts the data analysis processes and activities for generating publication-ready results/outputs for this study.
 
 ### Objectives
 
